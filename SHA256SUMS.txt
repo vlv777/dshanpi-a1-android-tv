@@ -1,0 +1,2 @@
+544096b6d93baf383e0ba2dc95b4a0300e47210903b414315f51b5d9d44400b1  update-dshanpi_a1-ATV-GMS-20261016.img
+f7bd579b8ac9ece1a38725f0f1beefc8d378994a14feea6e989cb3f15f7bcac4  update-dshanpi_a1-ATV-GMS-20261016.7z
