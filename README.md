@@ -2,7 +2,26 @@
 
 东山派 A1（RK3576 / 8GB LPDDR4X / 256GB eMMC）的 Android 14 **Android TV** 固件，内置 Google 服务（GMS / Play 商店 / GSF / Android TV Launcher）。
 
-## 固件文件
+## 固件版本（三个 Release）
+
+**v1.0.0 — Android TV + GMS（推荐）**
+- `update-dshanpi_a1-ATV-GMS-20261016.7z`（756,280,512 字节）
+- img：2,070,991,491 字节，MD5 `08404FBEBA4296255325C9683AA9F7AC`
+- 7z SHA256：`f7bd579b8ac9ece1a38725f0f1beefc8d378994a14feea6e989cb3f15f7bcac4`
+- 含 Play 商店、GMS、GSF、Android TV 桌面、Katniss、Chromecast
+
+**v1.0.0-atv — Android TV（无 Google 服务）**
+- `update-dshanpi_a1-ATV-20261016.7z`（591,958,035 字节）
+- img：1,604,067,971 字节，MD5 `107a99a9cb694512286c69c20af6eb87`
+- 7z SHA256：`0de35d109a9f485d0f8719e35dbeda666716bdd32c31923125684394c504c780`
+
+**v1.0.0-tablet — Android 14 平板版（第一版验证镜像）**
+- `update-dshanpi_a1-20261015.7z`（717,392,938 字节）
+- img：2,048,203,395 字节，MD5 `751bc7094bdfbd43431570c9107ba47e`
+- 7z SHA256：`5185e0795d30f21bd8ee7a784c76b4c2ee55e798da8e80864d369b03af461de2`
+- 平板 Launcher3，非 TV 桌面、无 GMS，仅用于板级适配验证
+
+## 固件文件（v1.0.0 主版本）
 
 - 名称：`update-dshanpi_a1-ATV-GMS-20261016.img`
 - 大小：2,070,991,491 字节（1.93 GiB）
